@@ -2,7 +2,7 @@
 
 -----
 
-<div>
+<div align="center">
 <img align="center" alt="Header" src="https://github.com/BenficaS/BenficaS/blob/estrutura/img/github-header-image.png?raw=true"/>
 </div>
 
