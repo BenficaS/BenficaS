@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/BenficaS/BenficaS/img/github-header-image.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/BenficaS/BenficaS/img/github-header-image.png"/>
 </div>
 
 -----
