@@ -68,14 +68,6 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>,  <code></code> <br /><br />
-- :mortar_board: &nbsp; Na <a href="" target="_blank"></a><code></code><br />
-- :necktie: &nbsp; Na <a href= target="_blank">IN8</a></code><br />:airplane:<br />
-- :briefcase: &nbsp; Na <a href= target="_blank"></a></code> <br /> /> :man_teacher:<br />
-- :man_teacher: &nbsp;<a href= target="_blank"></a><br /> <a href= target="_blank"></a>.<br />
-- :trophy: &nbsp;<br /> da <a href=target="_blank"><br />
-- :atom: &nbsp; <a href= target="_blank">aqui</a><br /> <a href= target="_blank"> </a>? :thinking:)<br />
-- :memo: &nbsp;  <a href= target="_blank"></a>.<br />
 
 </p>
 </div>
