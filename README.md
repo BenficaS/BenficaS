@@ -46,7 +46,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 28 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Aluno do ensino superior de analise e desenvolvimento de sistemas</code>,Sou apaixonado por tecnologia e amante de programação. <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 28 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Aluno do ensino superior de analise e desenvolvimento de sistemas</code>,Sou apaixonado por tecnologia e amante de programação./>
 </div>
 
 -----
