@@ -54,7 +54,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
- Tranbalhei como soldado no exercito brasileiro ao qual me orgulho muito, sempre me voltei e desenvolvi aptidões voltadas para a área de programação onde desejo me findar para o futuro. Gosto de 
+ Tranbalhei como soldado no exercito brasileiro ao qual me orgulho muito, sempre me voltei e desenvolvi aptidões voltadas para a área de programação onde desejo me findar para o futuro.
 </div>
 
 -----
