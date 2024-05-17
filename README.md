@@ -203,7 +203,7 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22vm77iaddgbhe57w7qi2s5wa" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sweiwdx4eqn1ij69b7s9xrk8t" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
@@ -212,7 +212,7 @@
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22vm77iaddgbhe57w7qi2s5wa&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22vm77iaddgbhe57w7qi2s5wa&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=sweiwdx4eqn1ij69b7s9xrk8t&count=10"/>
 </div>
 <div>
 <details>
