@@ -93,16 +93,10 @@
 &nbsp; 
 <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/eclipse.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/netbeans.png?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/xcode.png?raw=true"/></a></code>
-</div>
 
 -----
 
