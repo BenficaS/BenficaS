@@ -132,54 +132,6 @@
 <br />
 </div>
 
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
-<div>
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R2.png?raw=true" alt="R2"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R3.png?raw=true" alt="R3"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R4.png?raw=true" alt="R4"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R5.png?raw=true" alt="R5"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R6.png?raw=true" alt="R6"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-</div>
-</details>
-</div>
-
-<div align="center">
-
 ```text
  █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
 ██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
