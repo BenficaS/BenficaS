@@ -123,9 +123,6 @@
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
-<tr>
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
