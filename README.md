@@ -141,36 +141,4 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```                                        
 
------
 
-<div>
-<table align="center">
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
------
-
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
-
-<!---
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
--->
-
-<!-- Obrigado pela visita! -->
