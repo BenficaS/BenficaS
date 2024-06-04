@@ -118,7 +118,7 @@
 -----
 
 <div>
-<table align="right">
+<table align="left">
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
