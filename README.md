@@ -129,13 +129,7 @@
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Expert-blue"/>
-<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
-<br />
+
 <img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
 <img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
 <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
