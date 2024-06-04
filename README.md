@@ -51,8 +51,7 @@
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
- Sou uma envolvida em projetos no ambito escolar,minha musica predileta é o sertanejo ![image](https://github.com/BenficaS/BenficaS/assets/107698702/fb9052d1-94b5-45d5-8db9-4647c685a967).
-</div>
+ Sou uma envolvida em projetos no ambito escolar,minha musica predileta é o sertanejo.
 
 -----
 
