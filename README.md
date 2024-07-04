@@ -33,7 +33,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 28 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Aluno do ensino superior de analise e desenvolvimento de sistemas</code>,Sou apaixonado por tecnologia e amante de programação.
+<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 28 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Formado analise e desenvolvimento de sistemas</code>,Sou apaixonado por tecnologia e amante de programação.
 </div>
 
 -----
@@ -51,7 +51,7 @@
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-  Sou uma pessoa envolvida em projetos no ambito escolar,minha musica predileta é o sertanejo.
+  Sou uma pessoa envolvida em projetos no ambito escolar, Gosto de jogos online, adoro escutar musicas de todos os estilos.
 
 -----
 
