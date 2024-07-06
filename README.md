@@ -57,8 +57,7 @@ Meu objetivo profissional é crescer e me desenvolver continuamente até me torn
 <div>
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-  Sou uma pessoa envolvida em projetos no ambito escolar, Gosto de jogos online, adoro escutar musicas de todos os estilos.
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais: Gosto de jogos online, adoro escutar musicas de todos os estilos, Amo churrasco, e de fazer novas amizades!, Essencialmente adoro desafios.
 
 -----
 
