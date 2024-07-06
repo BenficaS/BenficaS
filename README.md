@@ -41,8 +41,6 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Olá,
-
 Sou um desenvolvedor apaixonado por música e, principalmente, por programação. Desde cedo, sempre fui fascinado pelo poder transformador da tecnologia e como ela pode ser usada para resolver problemas complexos e melhorar a vida das pessoas.
 
 Ao longo da minha carreira, tive a oportunidade de trabalhar com diversas linguagens e tecnologias. Minha expertise inclui: Java, JavaScript, React.js, React Native, HTML, CSS, Banco de dados SQL, Banco de dados MongoDB, Git & GitHub
