@@ -41,7 +41,14 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
- Tranbalhei como soldado no exercito brasileiro ao qual me orgulho muito, sempre me voltei e desenvolvi aptidões voltadas para a área de programação onde desejo me findar para o futuro.
+Olá,
+
+Meu nome é [Seu Nome] e sou um desenvolvedor apaixonado por música e, principalmente, por programação. Desde cedo, sempre fui fascinado pelo poder transformador da tecnologia e como ela pode ser usada para resolver problemas complexos e melhorar a vida das pessoas.
+
+Ao longo da minha carreira, tive a oportunidade de trabalhar com diversas linguagens e tecnologias. Minha expertise inclui: Java, JavaScript, React.js, React Native, HTML, CSS, Banco de dados SQL, Banco de dados MongoDB, Git & GitHub
+Com uma sólida formação em Análise e Desenvolvimento de Sistemas, complementada por uma certificação em Java pelo Udemy, venho desenvolvendo projetos que vão desde aplicações web até sistemas móveis, sempre com foco em criar soluções eficientes e escaláveis. Um dos meus projetos mais recentes foi um sistema de gerenciamento de inventário utilizando React Native, onde pude aplicar meus conhecimentos em front-end e back-end de forma integrada.
+
+Meu objetivo profissional é crescer e me desenvolver continuamente até me tornar um desenvolvedor web e mobile sênior. Sou um profissional dedicado, com uma paixão insaciável por aprender e aprimorar minhas habilidades. Acredito no trabalho em equipe e na colaboração como formas de alcançar resultados excepcionais.
 </div>
 
 -----
