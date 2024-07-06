@@ -43,7 +43,7 @@
 <div align="justify">
 Olá,
 
-Meu nome é [Seu Nome] e sou um desenvolvedor apaixonado por música e, principalmente, por programação. Desde cedo, sempre fui fascinado pelo poder transformador da tecnologia e como ela pode ser usada para resolver problemas complexos e melhorar a vida das pessoas.
+Sou um desenvolvedor apaixonado por música e, principalmente, por programação. Desde cedo, sempre fui fascinado pelo poder transformador da tecnologia e como ela pode ser usada para resolver problemas complexos e melhorar a vida das pessoas.
 
 Ao longo da minha carreira, tive a oportunidade de trabalhar com diversas linguagens e tecnologias. Minha expertise inclui: Java, JavaScript, React.js, React Native, HTML, CSS, Banco de dados SQL, Banco de dados MongoDB, Git & GitHub
 Com uma sólida formação em Análise e Desenvolvimento de Sistemas, complementada por uma certificação em Java pelo Udemy, venho desenvolvendo projetos que vão desde aplicações web até sistemas móveis, sempre com foco em criar soluções eficientes e escaláveis. Um dos meus projetos mais recentes foi um sistema de gerenciamento de inventário utilizando React Native, onde pude aplicar meus conhecimentos em front-end e back-end de forma integrada.
